@@ -1,3 +1,6 @@
+---
+title: Inicio
+---
 # 👑 CORONA HELMREICH
 
 Bienvenidos a la base de datos oficial. Selecciona una categoría:
