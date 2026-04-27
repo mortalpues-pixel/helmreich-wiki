@@ -7,57 +7,55 @@
 ## 📊 Mapa Genealógico Completo
 
 ```mermaid
-flowchart TD
-    %% --- RAMA PRIMARIA ---
-    Morack("👑 Morack") --- M_Union(("💍")) --- Margarita("✝️ Margarita")
+graph TD
+    Morack[Morack] --- M_Union[Union] --- Margarita[Margarita]
     
-    M_Union --> Zero("Zero")
-    M_Union --> White("White")
-    M_Union --> Payton("✝️ Payton")
-    M_Union --> Juana("Juana")
-    M_Union --> Mict("Mict")
-    M_Union --> Swoune("Swoune")
-    M_Union --> Elisa("✝️ Elisa")
+    M_Union --> Zero[Zero]
+    M_Union --> White[White]
+    M_Union --> Payton[Payton]
+    M_Union --> Juana[Juana]
+    M_Union --> Mict[Mict]
+    M_Union --> Swoune[Swoune]
+    M_Union --> Elisa[Elisa]
 
-    White --- W_Union(("💍")) --- W_Spouse("Pareja")
-    W_Union --> Paolo("Paolo")
-    W_Union --> Tiziano("Tiziano")
-    W_Union --> Marge("✝️ Marge")
+    White --- W_Union[Union] --- W_Spouse[Pareja]
+    W_Union --> Paolo[Paolo]
+    W_Union --> Tiziano[Tiziano]
+    W_Union --> Marge[Marge]
 
-    Marge --- Ma_Union(("💍")) --- Ma_Spouse("Pareja")
-    Ma_Union --> Guillermo("Guillermo")
-    Ma_Union --> Irratie("Irratie")
+    Marge --- Ma_Union[Union] --- Ma_Spouse[Pareja]
+    Ma_Union --> Guillermo[Guillermo]
+    Ma_Union --> Irratie[Irratie]
 
-    Juana --- J_Union(("💍")) --- J_Spouse("Pareja")
-    J_Union --> Luti("Luti")
-    J_Union --> Pato("Pato")
-    J_Union --> Nagel("Nagel")
-    J_Union --> Sophia("✝️ Sophia")
-    J_Union --> Flux("Flux")
+    Juana --- J_Union[Union] --- J_Spouse[Pareja]
+    J_Union --> Luti[Luti]
+    J_Union --> Pato[Pato]
+    J_Union --> Nagel[Nagel]
+    J_Union --> Sophia[Sophia]
+    J_Union --> Flux[Flux]
 
-    Nagel --- N_Union(("💍")) --- N_Spouse("Pareja")
-    N_Union --> Nacho("Nacho")
+    Nagel --- N_Union[Union] --- N_Spouse[Pareja]
+    N_Union --> Nacho[Nacho]
 
-    %% --- RAMA SECUNDARIA ---
-    Carlota("✝️ Carlota") --- C_Union(("🛡️")) --- Ron("⚔️ Ron")
+    Carlota[Carlota] --- C_Union[Union] --- Ron[Ron]
 
-    C_Union --> Gaby("Gaby")
-    C_Union --> Napo("Napo")
-    C_Union --> Futu("Futu")
-    C_Union --> Lisa("✝️ Lisa")
-    C_Union --> Deidara("Deidara")
-    C_Union --> Anna("✝️ Anna")
+    C_Union --> Gaby[Gaby]
+    C_Union --> Napo[Napo]
+    C_Union --> Futu[Futu]
+    C_Union --> Lisa[Lisa]
+    C_Union --> Deidara[Deidara]
+    C_Union --> Anna[Anna]
 
-    Futu --- F_Union(("💍")) --- F_Spouse("Pareja")
-    F_Union --> Must("Must")
-    F_Union --> Beagle("Beagle")
-    F_Union --> Sacu("Sacu")
-    F_Union --> Chad("Chad")
-    F_Union --> Governor("Gov.")
-    F_Union --> Mac("Mac")
-    F_Union --> Sebastian("Sebast.")
+    Futu --- F_Union[Union] --- F_Spouse[Pareja]
+    F_Union --> Must[Must]
+    F_Union --> Beagle[Beagle]
+    F_Union --> Sacu[Sacu]
+    F_Union --> Chad[Chad]
+    F_Union --> Governor[Governor]
+    F_Union --> Mac[Mac]
+    F_Union --> Sebastian[Sebastian]
 
-    Beagle -. Adopción .-> Maya("Maya")
+    Beagle -. Adopcion .-> Maya[Maya]
 ```
 
 ---
