@@ -8,62 +8,56 @@
 
 ```mermaid
 graph TD
-    classDef dead fill:#3b1e1e,stroke:#f66,stroke-width:1px,color:#fff;
-    classDef gen0 fill:#423011,stroke:#da5,stroke-width:2px,color:#fff;
-    classDef union fill:#da5,stroke:#da5,color:#fff;
-
     %% --- RAMA PRIMARIA ---
-    Morack["👑 Morack"]:::gen0 --- M_Union(["💍"]):::union
-    M_Union --- Margarita["✝️ Margarita"]:::dead
+    Morack[Morack - Gen 0] --- M_U[Marriage] --- Margarita[Margarita - RIP]
     
-    M_Union --> Zero["Zero"]
-    M_Union --> White["White"]
-    M_Union --> Payton["✝️ Payton"]:::dead
-    M_Union --> Juana["Juana"]
-    M_Union --> Mict["Mict"]
-    M_Union --> Swoune["Swoune"]
-    M_Union --> Elisa["✝️ Elisa"]:::dead
+    M_U --> Zero[Zero]
+    M_U --> White[White]
+    M_U --> Payton[Payton - RIP]
+    M_U --> Juana[Juana]
+    M_U --> Mict[Mict]
+    M_U --> Swoune[Swoune]
+    M_U --> Elisa[Elisa - RIP]
 
-    White --- W_Union(["💍"]):::union --- W_Spouse["Pareja"]
-    W_Union --> Paolo["Paolo"]
-    W_Union --> Tiziano["Tiziano"]
-    W_Union --> Marge["✝️ Marge"]:::dead
+    White --- W_U[Marriage] --- W_Spouse[Pareja]
+    W_U --> Paolo[Paolo]
+    W_U --> Tiziano[Tiziano]
+    W_U --> Marge[Marge - RIP]
 
-    Marge --- Ma_Union(["💍"]):::union --- Ma_Spouse["Pareja"]
-    Ma_Union --> Guillermo["Guillermo"]
-    Ma_Union --> Irratie["Irratie"]
+    Marge --- Ma_U[Marriage] --- Ma_Spouse[Pareja]
+    Ma_U --> Guillermo[Guillermo]
+    Ma_U --> Irratie[Irratie]
 
-    Juana --- J_Union(["💍"]):::union --- J_Spouse["Pareja"]
-    J_Union --> Luti["Luti"]
-    J_Union --> Pato["Pato"]
-    J_Union --> Nagel["Nagel"]
-    J_Union --> Sophia["✝️ Sophia"]:::dead
-    J_Union --> Flux["Flux"]
+    Juana --- J_U[Marriage] --- J_Spouse[Pareja]
+    J_U --> Luti[Luti]
+    J_U --> Pato[Pato]
+    J_U --> Nagel[Nagel]
+    J_U --> Sophia[Sophia - RIP]
+    J_U --> Flux[Flux]
 
-    Nagel --- N_Union(["💍"]):::union --- N_Spouse["Pareja"]
-    N_Union --> Nacho["Nacho"]
+    Nagel --- N_U[Marriage] --- N_Spouse[Pareja]
+    N_U --> Nacho[Nacho]
 
     %% --- RAMA SECUNDARIA ---
-    Carlota["✝️ Carlota"]:::dead --- C_Union(["🛡️"]):::union
-    C_Union --- Ron["⚔️ Ron"]:::gen0
+    Carlota[Carlota - RIP] --- C_U[Marriage] --- Ron[Ron - Gen 0]
 
-    C_Union --> Gaby["Gaby"]
-    C_Union --> Napo["Napo"]
-    C_Union --> Futu["Futu"]
-    C_Union --> Lisa["✝️ Lisa"]:::dead
-    C_Union --> Deidara["Deidara"]
-    C_Union --> Anna["✝️ Anna"]:::dead
+    C_U --> Gaby[Gaby]
+    C_U --> Napo[Napo]
+    C_U --> Futu[Futu]
+    C_U --> Lisa[Lisa - RIP]
+    C_U --> Deidara[Deidara]
+    C_U --> Anna[Anna - RIP]
 
-    Futu --- F_Union(["💍"]):::union --- F_Spouse["Pareja"]
-    F_Union --> Must["Must"]
-    F_Union --> Beagle["Beagle"]
-    F_Union --> Sacu["Sacu"]
-    F_Union --> Chad["Chad"]
-    F_Union --> Governor["Governor"]
-    F_Union --> Mac["Mac"]
-    F_Union --> Sebastian["Sebastian"]
+    Futu --- F_U[Marriage] --- F_Spouse[Pareja]
+    F_U --> Must[Must]
+    F_U --> Beagle[Beagle]
+    F_U --> Sacu[Sacu]
+    F_U --> Chad[Chad]
+    F_U --> Governor[Governor]
+    F_U --> Mac[Mac]
+    F_U --> Sebastian[Sebastian]
 
-    Beagle -. Adopcion .-> Maya["Maya"]
+    Beagle -. Adopcion .-> Maya[Maya]
 ```
 
 ---
