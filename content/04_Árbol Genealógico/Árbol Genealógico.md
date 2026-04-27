@@ -7,15 +7,14 @@
 ## 📊 Mapa Genealógico Completo
 
 ```mermaid
-graph TD
+flowchart TD
     classDef dead fill:#3b1e1e,stroke:#f66,stroke-width:1px,color:#fff;
     classDef adopted fill:#1e273b,stroke:#8aa,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
     classDef gen0 fill:#423011,stroke:#da5,stroke-width:2px,color:#fff;
-    classDef union fill:none,stroke:none;
+    classDef union fill:#da5,stroke:#da5,width:10px,height:10px;
 
     %% --- RAMA PRIMARIA ---
-    Morack["👑 Morack"]:::gen0 --- M_Union(("💍")):::union
-    Margarita["✝️ Margarita"]:::dead --- M_Union
+    Morack["👑 Morack"]:::gen0 --- M_Union([💍]):::union --- Margarita["✝️ Margarita"]:::dead
     
     M_Union --> Zero["Zero"]
     M_Union --> White["White"]
@@ -41,8 +40,7 @@ graph TD
     Nagel --> Nacho["Nacho"]
 
     %% --- RAMA SECUNDARIA ---
-    Carlota["✝️ Carlota"]:::dead --- C_Union(("🛡️")):::union
-    Ron["⚔️ Ron"]:::gen0 --- C_Union
+    Carlota["✝️ Carlota"]:::dead --- C_Union([🛡️]):::union --- Ron["⚔️ Ron"]:::gen0
 
     C_Union --> Gaby["Gaby"]
     C_Union --> Napo["Napo"]
@@ -59,7 +57,7 @@ graph TD
     Futu --> Mac["Mac"]
     Futu --> Sebastian["Sebast."]
 
-    Beagle -. "Adopción" .-> Maya["Maya"]:::adopted
+    Beagle -. Adopción .-> Maya["Maya"]:::adopted
 ```
 
 ---
