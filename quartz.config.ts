@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mortalpues-pixel.github.io/helmreich-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
