@@ -1,55 +1,99 @@
 ---
-title: Árbol Genealógico (Versión Estable)
+title: Árbol Genealógico
 ---
 
-# 🌳 Árbol Genealógico
+# 🌳 Árbol Genealógico de la Dinastía Helmreich
+
+> [!info] Documento de Sangre
+> Registro oficial y clasificado de las distintas ramas y descendencia de la Familia HMR. Los miembros fallecidos están marcados con el símbolo ✝️ y fondo oscuro.
+
+## 📊 Mapa Genealógico Completo
 
 ```mermaid
 graph TD
-    M[Morack] --- MU[Matrimonio] --- MA[Margarita]
-    MU --> Z[Zero]
-    MU --> W[White]
-    MU --> P[Payton]
-    MU --> J[Juana]
-    MU --> MI[Mict]
-    MU --> S[Swoune]
-    MU --> E[Elisa]
+    classDef dead fill:#3b1e1e,stroke:#f66,stroke-width:1px,color:#fff;
+    classDef gen0 fill:#423011,stroke:#da5,stroke-width:2px,color:#fff;
+    classDef union fill:#da5,stroke:#da5,color:#fff;
+    classDef adopted fill:#1e273b,stroke:#8aa,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
 
-    W --- WU[Matrimonio] --- WS[Pareja]
-    WU --> P1[Paolo]
-    WU --> T1[Tiziano]
-    WU --> M1[Marge]
+    %% --- RAMA PRIMARIA ---
+    Morack["👑 Morack Helmreich"]:::gen0 --- M_U(("💍")):::union --- Margarita["✝️ Margarita Helmreich"]:::dead
+    
+    M_U --> Zero["Zero Helmreich"]
+    M_U --> White["White Helmreich"]
+    M_U --> Payton["✝️ Payton Helmreich"]:::dead
+    M_U --> Juana["Juana Helmreich"]
+    M_U --> Mict["Mict Helmreich"]
+    M_U --> Swoine["Swoine Helmreich"]
+    M_U --> Elisa["✝️ Elisa Helmreich"]:::dead
 
-    M1 --- MAU[Matrimonio] --- MAS[Pareja]
-    MAU --> G1[Guillermo]
-    MAU --> I1[Irratie]
+    White --- W_U(("💍")):::union --- W_S["Pareja"]
+    W_U --> Paolo["Paolo Helmreich"]
+    W_U --> Tiziano["Tiziano Helmreich"]
+    W_U --> Marge["✝️ Marge Helmreich"]:::dead
 
-    J --- JU[Matrimonio] --- JS[Pareja]
-    JU --> L1[Luti]
-    JU --> PA1[Pato]
-    JU --> N1[Nagel]
-    JU --> SO1[Sophia]
-    JU --> F1[Flux]
+    Marge --- Ma_U(("💍")):::union --- Ma_S["Pareja"]
+    Ma_U --> Guillermo["Guillermo Helmreich"]
+    Ma_U --> Irratie["Irratie Helmreich"]
 
-    N1 --- NU[Matrimonio] --- NS[Pareja]
-    NU --> NA1[Nacho]
+    Juana --- J_U(("💍")):::union --- J_S["Pareja"]
+    J_U --> Luti["Luti Helmreich"]
+    J_U --> Pato["Pato Helmreich"]
+    J_U --> Nagel["Nagel Helmreich"]
+    J_U --> Sophia["✝️ Sophia Helmreich"]:::dead
+    J_U --> Flux["Flux Helmreich"]
 
-    C[Carlota] --- CU[Matrimonio] --- R[Ron]
-    CU --> G2[Gaby]
-    CU --> NA2[Napo]
-    CU --> FU2[Futu]
-    CU --> LI2[Lisa]
-    CU --> DE2[Deidara]
-    CU --> AN2[Anna]
+    Nagel --- N_U(("💍")):::union --- N_S["Pareja"]
+    N_U --> Nacho["Nacho Helmreich"]
 
-    FU2 --- FUU[Matrimonio] --- FUS[Pareja]
-    FUU --> MU3[Must]
-    FUU --> BE3[Beagle]
-    FUU --> SA3[Sacu]
-    FUU --> CH3[Chad]
-    FUU --> GO3[Governor]
-    FUU --> MC3[Mac]
-    FUU --> SE3[Sebastian]
+    %% --- RAMA SECUNDARIA ---
+    Carlota["✝️ Carlota Helmreich"]:::dead --- C_U(("🛡️")):::union --- Ron["⚔️ Ron Helmreich"]:::gen0
 
-    BE3 -. Adopcion .-> MY3[Maya]
+    C_U --> Gaby["Gaby Helmreich"]
+    C_U --> Napo["Napo Helmreich"]
+    C_U --> Futu["Futu Helmreich"]
+    C_U --> Lisa["✝️ Lisa Helmreich"]:::dead
+    C_U --> Deidara["Deidara Helmreich"]
+    C_U --> Anna["✝️ Anna Helmreich"]:::dead
+
+    Futu --- F_U(("💍")):::union --- F_S["Pareja"]
+    F_U --> Must["Must Helmreich"]
+    F_U --> Beagle["Beagle Helmreich"]
+    F_U --> Sacu["Sacu Helmreich"]
+    F_U --> Chad["Chad Helmreich"]
+    F_U --> Governor["Governor Helmreich"]
+    F_U --> Mac["Mac Helmreich"]
+    F_U --> Sebastian["Sebastian Helmreich"]
+
+    Beagle -. Adopcion .-> Maya["Maya Helmreich"]:::adopted
 ```
+
+---
+
+## 📜 Archivo Histórico por Ramas
+
+### 👑 Línea de Morack y Margarita
+Los fundadores de la rama principal.
+
+* **Primera Generación (Hijos):** 
+  * Zero, White, Payton (✝️), Juana, Mict, Swoine, Elisa (✝️)
+
+* **Segunda Generación (Nietos):**
+  * *Hijos de White:* Paolo, Tiziano, Marge (✝️)
+  * *Hijos de Juana:* Luti, Pato, Nagel, Sophia (✝️), Flux
+
+* **Tercera Generación (Bisnietos):**
+  * *Hijos de Marge:* Guillermo, Irratie
+  * *Hijos de Nagel:* Nacho
+
+### ⚔️ Línea de Carlota y Ron
+La rama secundaria de la descendencia.
+
+* **Primera Generación (Hijos):**
+  * Gaby, Napo, Futu, Lisa (✝️), Deidara, Anna (✝️)
+
+* **Segunda Generación (Nietos):**
+  * *Hijos de Futu:* Must, Beagle, Sacu, Chad, Governor, Mac, Sebastian
+
+* **Tercera Generación (Bisnietos - Adopción):**
+  * *Adoptada por Beagle:* Maya Helmreich (Canónicamente adoptada)

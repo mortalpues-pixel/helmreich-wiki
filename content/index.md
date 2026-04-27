@@ -13,7 +13,7 @@ Bienvenidos a la base de datos oficial. Selecciona una categoría:
 
 - [[Importancia]]
 
-- [[Árbol Genealógico]]
+- [[arbol-estable|Árbol Genealógico]]
 
 # ⚖️ Normativas del Servidor
 
