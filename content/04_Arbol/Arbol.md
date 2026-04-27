@@ -9,7 +9,7 @@ title: Árbol Genealógico
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <div style="border: 8px double #d4af37; padding: 15px; background: rgba(20, 20, 20, 0.8); border-radius: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-width: 100%;">
-    <img src="/static/arbol-familiar.png" alt="Árbol Genealógico" style="display: block; width: 100%; height: auto;">
+    <img src="/static/arbol-familiar.jpg" alt="Árbol Genealógico" style="display: block; width: 100%; height: auto;">
   </div>
 </div>
 
