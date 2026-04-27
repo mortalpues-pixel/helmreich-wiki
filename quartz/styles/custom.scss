@@ -1,0 +1,18 @@
+@use "./base.scss";
+
+// Toque de Realeza Imperial
+body {
+  border-top: 5px solid #d4af37;
+}
+
+.page-title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.page-title a {
+  background: linear-gradient(135deg, #d4af37, #fceda9, #d4af37);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
