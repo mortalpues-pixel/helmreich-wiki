@@ -101,15 +101,15 @@ Con el tiempo, las ramas crecieron. Los hijos se casaron, tuvieron sus propios h
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 8px 0 24px 0;">
 
 <div style="border: 4px double #d4af37; border-radius:4px; overflow:hidden; background:#0a0800; box-shadow: 0 6px 20px rgba(0,0,0,0.5);">
-  <a href="/static/foto-castillo.png" target="_blank">
-    <img src="/static/foto-castillo.png" alt="Palacio Imperial Helmreich" style="width:100%; height:auto; display:block; cursor:zoom-in;">
+  <a href="/static/castillo-v2.png" target="_blank">
+    <img src="/static/castillo-v2.png" alt="Palacio Imperial Helmreich" style="width:100%; height:auto; display:block; cursor:zoom-in;">
   </a>
   <p style="text-align:center; color:#8a7040; font-size:0.78rem; letter-spacing:0.15em; text-transform:uppercase; margin:8px 0; padding:0 8px;">Sede de la Corona · Palacio Imperial</p>
 </div>
 
 <div style="border: 4px double #d4af37; border-radius:4px; overflow:hidden; background:#0a0800; box-shadow: 0 6px 20px rgba(0,0,0,0.5);">
-  <a href="/static/foto-helmreich.png" target="_blank">
-    <img src="/static/foto-helmreich.png" alt="Helmreich" style="width:100%; height:auto; display:block; cursor:zoom-in;">
+  <a href="/static/helmreich-v2.png" target="_blank">
+    <img src="/static/helmreich-v2.png" alt="Helmreich" style="width:100%; height:auto; display:block; cursor:zoom-in;">
   </a>
   <p style="text-align:center; color:#8a7040; font-size:0.78rem; letter-spacing:0.15em; text-transform:uppercase; margin:8px 0; padding:0 8px;">Corona Helmreich · La Dinastía</p>
 </div>
