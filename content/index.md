@@ -65,5 +65,5 @@ Si vas a formar parte de esto, léete las reglas. No hay excusas de ignorarlas.
 ---
 
 <div style="text-align:center; padding: 24px 0 8px 0;">
-  <p style="font-size:0.75rem; letter-spacing:0.2em; color:#5a4020; text-transform:uppercase;">Corona Helmreich · Todos los derechos reservados · Imperio HMR</p>
+  <p style="font-size:0.75rem; letter-spacing:0.2em; color:#5a4020; text-transform:uppercase;">Corona Helmreich · Todos los derechos reservados · Realeza HMR</p>
 </div>
