@@ -2,36 +2,45 @@
 tags: [rangos, jerarquia, prestigio, militar, ascensos]
 ---
 
-# 🏅 Jerarquía y Rangos de la Dinastía
+# 🏅 Jerarquía y Estructura de Poder
 
-El ascenso en la Familia Helmreich no se regala; se forja con el prestigio ganado en actos de servicio, despliegues y lealtad. A continuación se desglosan las tres ramas de poder y los requisitos de puntos de prestigio necesarios para alcanzar cada escalafón.
+El estatus dentro de la Familia Helmreich se define por el **prestigio** y el tiempo de servicio. No regalamos rangos; los otorgamos a quienes demuestran capacidad de mando y lealtad.
 
-> [!important] NORMA DE ASCENSO
-> **Hay que esperar un mínimo de 5 días con el rango actual para poder canjear el siguiente**, independientemente de los puntos que tengas acumulados.
+> [!important] Tiempo de Permanencia
+> Para optar a un ascenso, es obligatorio haber permanecido un mínimo de **5 días** en el rango actual, independientemente de los puntos acumulados.
 
 ---
 
-## 👑 RAMA ALTA DE LA FAMILIA
-La cúpula de poder absoluto. Toman las decisiones diplomáticas, tácticas y organizativas del Imperio.
+## 🔝 LA FDI: EL PILAR ELITE
+La **Federación de Defensa Interna (FDI)** es la rama principal y el pilar de la Corona. 
 
-*   **Primer Señor de la Familia:** Exclusivo del Fundador. Sin requisito de puntos.
-*   **Alto Patriarca:** N/A puntos.
-*   **Conserje de la Familia:** Exclusivo para los Developers / Desarrolladores de la Familia.
+*   Es la élite de las tres ramas existentes.
+*   Sus miembros son seleccionados entre los altos mandos con mayor prestigio.
+*   Se encargan de la seguridad interna y la protección directa de la Dinastía.
+
+---
+
+## 👑 RAMA ALTA (CÚPULA)
+Decisores finales y arquitectos de la familia.
+
+*   **Primer Señor de la Familia:** Fundador y autoridad máxima.
+*   **Alto Patriarca:** Veteranos de máximo respeto.
+*   **Conserje de la Familia:** Desarrolladores y arquitectos técnicos.
 *   **Consejo Helmreich:** 8.500 puntos.
 
-## 🛡️ RAMA MEDIA DE LA FAMILIA
+## 🛡️ RAMA MEDIA (OFICIALIDAD)
+Responsables de la disciplina y ejecución territorial.
 
-
-*   **Alto Oficial de la realeza:** 7.200 puntos.
+*   **Alto Oficial de la Realeza:** 7.200 puntos.
 *   **Regente Helmreich:** 5.550 puntos.
-*   **Señor de Caballeros de la Realeza:** 4.750 puntos.
-*   **Sangre Pura de la Realeza Helmreich:** 3.600 puntos.
+*   **Señor de Caballeros:** 4.750 puntos.
+*   **Sangre Pura:** 3.600 puntos.
 *   **Caballero de la Realeza:** 2.650 puntos.
 *   **Veterano de la Familia:** 1.900 puntos.
 
-## ⚔️ RAMA BAJA DE LA FAMILIA
+## ⚔️ RAMA BAJA (COMPROMETIDOS)
+Miembros en fase de consolidación.
 
-
-*   **Miembro Honorario de la Familia:** 1.100 puntos.
-*   **Miembro Ordinario de la Familia:** 800 puntos.
-*   **Familia y amigos:** N/A (Rango de inicio o civil).
+*   **Miembro Honorario:** 1.100 puntos.
+*   **Miembro Ordinario:** 800 puntos.
+*   **Familia y amigos:** Rango de entrada para invitados de prestigio y figuras reconocidas.

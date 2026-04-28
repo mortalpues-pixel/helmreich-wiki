@@ -5,44 +5,34 @@ tags: [normativa, regimen, roleplay, reglas]
 # ⚖️ Normativas de la Familia Helmreich
 
 > [!warning] EDICTO REAL
-> El desconocimiento de la ley no exime de su cumplimiento. Como representantes del honor del Imperio, el incumplimiento de este Códice será juzgado severamente. Nosotros podemos perdonar la torpeza, pero **la deslealtad se extirpa de raíz.**
+> El desconocimiento de estas normas no exime de su cumplimiento. Como representantes de la Corona, cualquier falta será sancionada. La disciplina es innegociable; **la deslealtad conlleva la expulsión inmediata.**
 
 ---
 
-## 🎖️ I. Conducta en el Campo de Batalla y Espacios Públicos
+## 🎖️ I. Admisión y Pertenencia
+La Corona Helmreich no es un grupo de reclutamiento abierto. Somos un círculo de élite.
 
-Sois la élite de la sociedad imperial de Roblox. Desde el soldado más raso hasta el Consejo de sangre pura, nuestra imagen pública debe ser inquebrantable.
+*   **Ingreso Selectivo:** Solo se accede a la familia mediante invitación directa tras haber alcanzado un **alto mando militar** o poseer un **prestigio reconocido** en la comunidad. No aceptamos solicitudes de personal sin historial comprobable.
+*   **Cupo Limitado:** Mantenemos una estructura compacta de aproximadamente **35 miembros** para asegurar la calidad y la lealtad de la línea de sangre.
 
-*   **Mantener la disciplina:** Cero tolerancia al *trolling*, uso de *exploits* o comportamiento errático (estando en rol) mientras portes nuestro uniforme.
+## ⚔️ II. Cadena de Mando y Órdenes
+Nuestra autoridad militar está delimitada por la soberanía territorial:
 
-*   **Respeto a la Cadena de Mando:** La voz de tu superior es la que manda, deberás obedecer a tus "superiores" y cualquier orden no coherente deberá ser reportada a los altos rangos.
+*   **Mando Soberano:** Dentro de nuestro mapa (Roblox), los miembros de la familia tienen autoridad absoluta para dar órdenes a cualquier unidad presente.
+*   **Fuera del Territorio:** No interferimos en la cadena de mando general del Imperio Alemán. Actuamos con respeto a las jerarquías externas, manteniendo nuestra posición como figuras de prestigio pero sin emitir órdenes directas a menos que la situación afecte a la Corona.
+*   **Respeto Interno:** La voz de un superior Helmreich es ley. Las discrepancias se tratan en privado, nunca frente a subordinados o externos.
 
-*   **Uniformidad:** Durante eventos en el castillo o base militar, es obligatorio portar el equipamiento oficial completo.
+## 🛡️ III. Conducta y Uniformidad
+Sois la cara de la realeza. Vuestro comportamiento define la imagen de la Dinastía.
 
-## 🛡️ II. Sistema de Prestigio y Meritocracia
+*   **Disciplina de Rol:** Queda prohibido el comportamiento errático, el trolling o cualquier acto que degrade la imagen de la Corona.
+*   **Vestimenta Oficial:** El uso del uniforme es obligatorio en todo evento oficial, base militar o castillo. La uniformidad es la primera muestra de disciplina.
 
-Pertenecer a la Corona es un privilegio. Mantenerse, es un trabajo diario.
+## 🚫 IV. Alta Traición y Sanciones
+La traición a la sangre Helmreich es el mayor de los crímenes. 
 
-*   La inactividad crónica sin aviso formal a la Junta Directiva es motivo de degradación o expulsión del grupo.
+*   **Exilio Irrevocable:** Cualquier filtración de información, conspiración interna o sabotaje resultará en la expulsión permanente y la inclusión en la "Lista Negra" de la familia.
+*   **Inactividad:** La Corona requiere miembros activos. El cese de actividad sin justificación previa resultará en la pérdida del rango y los privilegios.
 
-*   **Misiones de Prestigio:** Es deber moral de los miembros activos contribuir diariamente entregando sus pruebas y acumulando prestigio a través de nuestras vías automatizadas (bot de misiones).
-
-*   Los ascensos solo se conceden en base a este prestigio y al mérito comprobable. No existen ascensos por favoritismo.
-
-## ⚔️ III. El Enemigo y Las Alianzas
-
-*   Las relaciones diplomáticas o alianzas con otros clanes y familias son potestad exclusiva del Patriarca y los Señores de la Familia. Ningún otro miembro puede hablar formalmente en nombre de Helmreich.
-
-*   Todo personal no autorizado en nuestras tierras deberán ser expulsados o neutralizados. 
-
-## 🚫 IV. Alta Traición y Exilio
-
-El exilio de las paredes de la Dinastía Helmreich es un castigo irrevocable, que comúnmente conlleva entrar en nuestra "Lista Negra" perpetua a lo largo de de nuestra comunidad.
-
-Los actos punibles con exilio son:
-
-1. Revelar estrategias, bases de datos internas o filtraciones de inteligencia a la oposición.
-
-2. Sabotear operaciones militares formales en progreso.
-
-3. El intento de alzamiento o complot dentro de las filas de la familia o del Imperio.
+---
+*Cualquier situación no contemplada en este código será resuelta por la Junta Directiva de la Familia.*
