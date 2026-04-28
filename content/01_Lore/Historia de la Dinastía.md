@@ -6,7 +6,7 @@ tags: [lore, realeza, baviera, imperio]
 
 > *"Nacidos en los bosques de Baviera, forjados en el acero del Imperio. Nuestra sangre es nuestra única ley."* 
 
-La familia **Helmreich** no es una casa noble convencional. Somos el eje sobre el cual gira la autoridad y la tradición germánica. Nuestra historia no se escribe con pluma, sino con la autoridad ganada en el campo de batalla y la lealtad absoluta de quienes portan el apellido.
+La familia **Helmreich** no es una casa noble convencional. Somos el núcleo de la autoridad y la tradición germánica. Nuestra historia no se escribe con pluma, sino con la legitimidad ganada en el servicio y la lealtad absoluta de quienes portan el apellido.
 
 ---
 
@@ -26,7 +26,7 @@ En el corazón de Baviera se encuentra la base de nuestras operaciones. No es un
 
 Somos reconocidos como la **Familia Real del Imperio Alemán**. Pero este estatus conlleva una responsabilidad que no todos pueden soportar. 
 
-No somos una familia abierta. Actualmente, la Corona está compuesta por **35 miembros selectos**. La admisión no es un trámite: solo invitamos a aquellos que ostentan **altos mandos militares** o son figuras de **prestigio reconocido**. Aquí no hay sitio para cualquiera; solo para la élite que ya ha demostrado su valor fuera de nuestras murallas.
+No somos una familia abierta. Actualmente, la Corona está compuesta por **35 miembros selectos**. La admisión es restringida: solo invitamos a aquellos que ya ostentan **altos mandos militares** o son figuras de **prestigio reconocido**. Aquí no hay sitio para cualquiera; solo para la élite que ha demostrado su valor en el Imperio.
 
 > [!important] Apoyo Imperial
 > Gracias a siglos de servicio, contamos con el respaldo total de los ciudadanos y las instituciones. Cuando la Corona habla, el Imperio escucha. No por miedo, sino por respeto a los sacrificios realizados.

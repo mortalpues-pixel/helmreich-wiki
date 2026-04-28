@@ -11,11 +11,11 @@ La Casa Helmreich no interviene en la logística diaria del ejército global del
 ---
 
 ## 🎖️ La FDI: El Pilar de Élite
-El brazo ejecutor más importante de la Corona es la **FDI (Federación de Defensa Interna)**. 
+El brazo ejecutor más importante de la Corona son las **FDI (Fuerzas de Inteligencia)**. 
 
 Si bien el Imperio cuenta con diversas ramas militares, la FDI se posiciona como la élite indiscutible. Su función no es el espionaje exterior ni la inteligencia extranjera, sino la protección de los pilares de la Corona y la seguridad interna.
 
-*   **Naturaleza:** Es una fuerza de choque y protección comparable a las guardias pretorianas o la SS histórica. 
+*   **Naturaleza:** Es una fuerza de choque y protección de alto nivel, encargada de la integridad de la familia. 
 *   **Selección:** Solo los mejores de las 3 ramas existentes pueden aspirar a entrar en la FDI.
 *   **Lealtad:** Su obediencia no es al alto mando general, sino directamente a los Señores de la Familia Helmreich.
 

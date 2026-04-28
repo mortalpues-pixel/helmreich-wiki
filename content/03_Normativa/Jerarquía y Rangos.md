@@ -12,7 +12,7 @@ El estatus dentro de la Familia Helmreich se define por el **prestigio** y el ti
 ---
 
 ## 🔝 LA FDI: EL PILAR ELITE
-La **Federación de Defensa Interna (FDI)** es la rama principal y el pilar de la Corona. 
+Las **Fuerzas de Inteligencia (FDI)** representan la rama principal y el pilar de la Corona. 
 
 *   Es la élite de las tres ramas existentes.
 *   Sus miembros son seleccionados entre los altos mandos con mayor prestigio.

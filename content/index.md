@@ -81,8 +81,8 @@ A través de cuatro generaciones, el árbol ha crecido. Algunos nombres han qued
 |---|---|---|
 | 📜 | [[Historia de la Dinastía\|Crónica de la Dinastía]] | Nuestros orígenes y política de admisión. |
 | 🌳 | [[04_Árbol Genealógico/Árbol Genealógico\|Árbol Genealógico]] | El registro de sangre completo. |
-| 🛡️ | [[Pilares de la Corona y Fuerza de Defensa\|Pilares de la Corona]] | La FDI y nuestra jurisdicción territorial. |
-| 👑 | [[Importancia\|El Rol de la Dinastía]] | Por qué la Corona es el eje del Imperio. |
+| 🛡️ | [[Pilares de la Corona y Fuerza de Defensa\|Pilares de la Corona]] | Las FDI y nuestra jurisdicción territorial. |
+| 👑 | [[Importancia\|El Rol de la Dinastía]] | Por qué la Corona es el núcleo del Imperio. |
 | 🏅 | [[Jerarquía y Rangos]] | Estructura de poder y requisitos de prestigio. |
 
 ---
