@@ -43,7 +43,7 @@ Con el tiempo, las ramas crecieron. Los hijos se casaron, tuvieron sus propios h
     <span style="color:#8a7040; font-size:0.8rem; letter-spacing:0.1em;">28 Abr 2026</span>
   </div>
   <p style="color:#8a7040; font-size:0.8rem; margin: 2px 0 6px 0; letter-spacing:0.1em;">Publicado por Administración</p>
-  <p style="color:#aaa; font-size:0.9rem; margin:0;">El registro de sangre ha sido actualizado con todas las generaciones de ambas ramas. Si no apareces, habla con un miembro del staff.</p>
+  <p style="color:#aaa; font-size:0.9rem; margin:0;">El registro de sangre ha sido actualizado con todas las generaciones de ambas ramas. Si no apareces, habla con un superior en la familia.</p>
 </div>
 
 <div style="border-left: 3px solid #5a4020; padding: 12px 18px; margin: 12px 0; background: rgba(90,64,32,0.04); border-radius: 0 4px 4px 0;">
@@ -61,9 +61,7 @@ Con el tiempo, las ramas crecieron. Los hijos se casaron, tuvieron sus propios h
 
 <div style="border: 1px solid #3a2e10; padding: 16px 18px; border-radius:4px; background: rgba(212,175,55,0.03);">
   <p style="color:#d4af37; font-size:0.75rem; letter-spacing:0.25em; text-transform:uppercase; margin: 0 0 10px 0;">⚔️ Miembro Destacado</p>
-  <p style="font-weight:bold; font-size:1rem; margin:0 0 4px 0;">Futu Helmreich</p>
-  <p style="color:#8a7040; font-size:0.8rem; margin:0 0 8px 0;">1ª Generación · Rama de Carlota</p>
-  <p style="color:#aaa; font-size:0.88rem; margin:0;">Con siete hijos, Futu encabeza la segunda generación más numerosa del árbol. Solo su hermana Beagle amplió el linaje por adopción.</p>
+  <p style="color:#5a5040; font-size:0.95rem; font-style:italic; margin:0;">Sin miembros destacados por el momento.</p>
 </div>
 
 <div style="border: 1px solid #3a2e10; padding: 16px 18px; border-radius:4px; background: rgba(212,175,55,0.03);">
@@ -98,18 +96,22 @@ Con el tiempo, las ramas crecieron. Los hijos se casaron, tuvieron sus propios h
 
 ---
 
-## 🔗 Comunidad
+## 🖼️ Galería Imperial
 
-<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 8px 0 24px 0;">
+<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 8px 0 24px 0;">
 
-<div style="border: 1px solid #3a2e10; padding: 14px 16px; border-radius:4px; background: rgba(212,175,55,0.03);">
-  <p style="font-weight:bold; margin:0 0 4px 0;">Discord Oficial</p>
-  <p style="color:#aaa; font-size:0.88rem; margin:0;">El servidor principal de la Realeza HMR. Audiencias, anuncios y roleplay.</p>
+<div style="border: 4px double #d4af37; border-radius:4px; overflow:hidden; background:#0a0800; box-shadow: 0 6px 20px rgba(0,0,0,0.5);">
+  <a href="/static/foto-castillo.png" target="_blank">
+    <img src="/static/foto-castillo.png" alt="Palacio Imperial Helmreich" style="width:100%; height:auto; display:block; cursor:zoom-in;">
+  </a>
+  <p style="text-align:center; color:#8a7040; font-size:0.78rem; letter-spacing:0.15em; text-transform:uppercase; margin:8px 0; padding:0 8px;">Sede de la Corona · Palacio Imperial</p>
 </div>
 
-<div style="border: 1px solid #3a2e10; padding: 14px 16px; border-radius:4px; background: rgba(212,175,55,0.03);">
-  <p style="font-weight:bold; margin:0 0 4px 0;">Grupo de Roblox</p>
-  <p style="color:#aaa; font-size:0.88rem; margin:0;">El grupo oficial donde se gestionan los rangos de la Corona Helmreich.</p>
+<div style="border: 4px double #d4af37; border-radius:4px; overflow:hidden; background:#0a0800; box-shadow: 0 6px 20px rgba(0,0,0,0.5);">
+  <a href="/static/foto-helmreich.png" target="_blank">
+    <img src="/static/foto-helmreich.png" alt="Helmreich" style="width:100%; height:auto; display:block; cursor:zoom-in;">
+  </a>
+  <p style="text-align:center; color:#8a7040; font-size:0.78rem; letter-spacing:0.15em; text-transform:uppercase; margin:8px 0; padding:0 8px;">Corona Helmreich · La Dinastía</p>
 </div>
 
 </div>
